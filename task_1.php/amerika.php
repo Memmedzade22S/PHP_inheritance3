@@ -1,8 +1,8 @@
 <?php
-include_once 'olke.php';
+include_once 'Olke.php';
 
 class Amerika extends Olke {
     public function elaveFunksiya() {
-            return $this->ad . " dollar istifadə edir!";
+            return $this->ad . " dollar istifade edir!";
                 }
                 }

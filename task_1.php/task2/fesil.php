@@ -1,5 +1,5 @@
 <?php
-class Olke {
+class Fesil {
     public $ad;
 
         public function __construct($ad) {
@@ -7,6 +7,6 @@ class Olke {
                     }
 
                         public function tanit() {
-                                return "Qardas olke " . $this->ad . "dir.";
+                                return "Bu fesil " . $this->ad . "dir.";
                                     }
                                     }
